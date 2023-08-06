@@ -1,8 +1,9 @@
 ### Here is my github page, i will welcome any advice or comment, contact me on linkedin
 ### https://www.linkedin.com/in/yeongjae-lee-6b7427233/
 
-# my project list 
-## 1.  keto diet web blog
+# my project list
+
+# 1.  keto diet web blog
 ### https://www.re-meal.com
 ### frontend code : https://github.com/yeongjaelee/remeal-frontend
 ### backend code : https://github.com/yeongjaelee/remeal-backend
@@ -28,7 +29,7 @@ The experience of building the web blog alone reinforced my passion for continuo
 - connecting web server (nginx)
 
 
-## 2. full stack todo list (only with sveltekit, drizzle, postgresql)
+# 2. full stack todo list (only with sveltekit, drizzle, postgresql)
 ### code : https://github.com/yeongjaelee/sveltekit_fullstack_practice
 ### (1) Inspiration <br/>
 I've heard that with frontend frameworks that support server-side rendering, such as Next.js and Svelte Kit, <br/>
@@ -41,7 +42,7 @@ I'm starting this project out of curiosity because I'm always interested in acqu
 - database : postgresql
 - database connectivity : drizzle (typescirpt ORM) https://orm.drizzle.team/
 
-## 3. first trying django proejct
+# 3. first trying django proejct
 ### code : https://github.com/yeongjaelee/web-application-with-django
 ### (1) Inspiration <br/>
 first trying to make web page with django framework
