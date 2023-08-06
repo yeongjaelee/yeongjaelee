@@ -3,7 +3,7 @@
 
 # my project list 
 ## 1.  re-meal web blog
-(1) Inspiration behind this web blog
+(1) Inspiration behind this web blog \n
 my senior coworker's desire to start his own business related to the keto diet and create a community around it. 
 When he approached me to join the project, I wholeheartedly accepted and took the initiative to lead the development efforts, leveraging the skills I was eager to enhance. 
 The experience of building this web blog on my own was gratifying, as I could see the positive impact of my programming skills in creating a platform that promotes healthy eating and wellness.  
