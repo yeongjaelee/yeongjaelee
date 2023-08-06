@@ -3,11 +3,22 @@
 
 # my project list 
 ## 1.  re-meal web blog
-####(1) Inspiration behind this web blog <br/>
-my senior coworker's desire to start his own business related to the keto diet and create a community around it. 
-When he approached me to join the project, I wholeheartedly accepted and took the initiative to lead the development efforts, leveraging the skills I was eager to enhance. 
-The experience of building this web blog on my own was gratifying, as I could see the positive impact of my programming skills in creating a platform that promotes healthy eating and wellness.  
-The experience of building the web blog alone reinforced my passion for continuous improvement and reinforced my confidence in my development abilities.
+### (1) Inspiration behind this web blog <br/>
+my senior coworker's desire to start his own business related to the keto diet and create a community around it.<br/>
+When he approached me to join the project, I wholeheartedly accepted and took the initiative to lead the development efforts, leveraging the skills I was eager to enhance.<br/>
+The experience of building this web blog on my own was gratifying, as I could see the positive impact of my programming skills in creating a platform that promotes healthy eating and wellness.<br/>
+The experience of building the web blog alone reinforced my passion for continuous improvement and reinforced my confidence in my development abilities.<br/>
+
+### (2) skill stacks <br/>
+- frontend : next 13 typescript <br/>
+- backend : django python <br/>
+- query : graphql, rest <br/>
+- database : postgresql <br/>
+- server : vercel-serverless (frontend), aws-ec2 (backend), nginx, certbot <br/>
+
+### (3) my jobs
+every thing such as project setting, developing frontend and backend, deploying server (vercel, aws), <br/>
+authenticate https(certbot), connecting web server (nginx)
 
 
 <!--
