@@ -28,6 +28,20 @@ The experience of building the web blog alone reinforced my passion for continuo
 - connecting web server (nginx)
 
 
+## 1. full stack todo list (only with sveltekit, drizzle, postgresql)
+### code : https://github.com/yeongjaelee/sveltekit_fullstack_practice
+### (1) Inspiration <br/>
+I've heard that with frontend frameworks that support server-side rendering, such as Next.js and Svelte Kit, <br/>
+it's possible to create a web page without having to distribute frontend and backend separately. <br/>
+With this full-stack project, my aim is to understand how it works and determine whether it's a better approach than distributing frontend and backend separately. <br/>
+I'm starting this project out of curiosity because I'm always interested in acquiring new skills <br/>
+
+### (2) skill stacks <br/>
+- full stack framework : sveltekit, typescript <br/>
+- database : postgresql
+- database connectivity : drizzle (typescirpt ORM) https://orm.drizzle.team/
+  
+
 
 <!--
 **yeongjaelee/yeongjaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
