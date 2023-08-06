@@ -4,6 +4,8 @@
 # my project list 
 ## 1.  re-meal web blog
 ### https://www.re-meal.com
+### frontend code : https://github.com/yeongjaelee/remeal-frontend
+### backend code : https://github.com/yeongjaelee/remeal-backend
 ### (1) Inspiration behind this web blog <br/>
 my senior coworker's desire to start his own business related to the keto diet and create a community around it.<br/>
 When he approached me to join the project, I wholeheartedly accepted and took the initiative to lead the development efforts, leveraging the skills I was eager to enhance.<br/>
