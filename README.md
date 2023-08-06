@@ -2,7 +2,7 @@
 ### https://www.linkedin.com/in/yeongjae-lee-6b7427233/
 
 # my project list 
-## 1.  re-meal web blog
+## 1.  keto diet web blog
 ### https://www.re-meal.com
 ### frontend code : https://github.com/yeongjaelee/remeal-frontend
 ### backend code : https://github.com/yeongjaelee/remeal-backend
