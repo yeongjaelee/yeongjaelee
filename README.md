@@ -3,7 +3,7 @@
 
 # my project list 
 ## 1.  re-meal project
-### <span style="color: green"> why did i do this project </span>
+(1) why did i do this project
 <!--
 **yeongjaelee/yeongjaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
