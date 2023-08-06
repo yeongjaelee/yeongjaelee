@@ -40,7 +40,16 @@ I'm starting this project out of curiosity because I'm always interested in acqu
 - full stack framework : sveltekit, typescript <br/>
 - database : postgresql
 - database connectivity : drizzle (typescirpt ORM) https://orm.drizzle.team/
-  
+
+## 3. first trying django proejct
+### code : https://github.com/yeongjaelee/web-application-with-django
+### (1) Inspiration <br/>
+first trying to make web page with django framework
+followed MVC , MVT
+
+### (2) skill stacks <br/>
+- framework : django framework
+- database : sqlite
 
 
 <!--
