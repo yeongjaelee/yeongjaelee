@@ -1,6 +1,9 @@
-### Hi there 👋
 ### Here is my github page, i will welcome any advice or comment, contact me on linkedin
 ### https://www.linkedin.com/in/yeongjae-lee-6b7427233/
+
+# my project list 
+## 1. re-meal project
+
 
 <!--
 **yeongjaelee/yeongjaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
