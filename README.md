@@ -3,6 +3,7 @@
 
 # my project list 
 ## 1.  re-meal web blog
+### https://www.re-meal.com
 ### (1) Inspiration behind this web blog <br/>
 my senior coworker's desire to start his own business related to the keto diet and create a community around it.<br/>
 When he approached me to join the project, I wholeheartedly accepted and took the initiative to lead the development efforts, leveraging the skills I was eager to enhance.<br/>
@@ -17,8 +18,13 @@ The experience of building the web blog alone reinforced my passion for continuo
 - server : vercel-serverless (frontend), aws-ec2 (backend), nginx, certbot <br/>
 
 ### (3) my jobs
-every thing such as project setting, developing frontend and backend, deploying server (vercel, aws), <br/>
-authenticate https(certbot), connecting web server (nginx)
+- everything
+- project setting (frontend, backend)
+- developing frontend and backend
+- deploying server (vercel, aws)
+- authenticate https (certbot)
+- connecting web server (nginx)
+
 
 
 <!--
